@@ -215,7 +215,6 @@ select {
   text-align: center;
   line-height: 1.4;
   max-width: 155px;
-  background: #ec6952;
   -webkit-border-top-right-radius: 0;
   -webkit-border-bottom-right-radius: 4px;
   -webkit-border-bottom-left-radius: 4px;
@@ -240,6 +239,9 @@ select {
 }
 .header h1.logo a:hover {
   text-decoration: none;
+}
+.header h1.logo img {
+  max-height: 80px;
 }
 .header h1.logo .logo-title {
   vertical-align: middle;
