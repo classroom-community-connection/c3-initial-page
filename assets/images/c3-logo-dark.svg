@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="553px" height="140px" viewBox="0 0 553 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Classroom  + Oval 1 + C + 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="branding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1-Copy-4" sketch:type="MSArtboardGroup" transform="translate(-46.000000, -19.000000)">
+            <g id="Classroom--+-Oval-1-+-C-+-3" sketch:type="MSLayerGroup" transform="translate(46.000000, 19.000000)">
+                <text id="Classroom-" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="36" font-weight="normal" line-spacing="40" fill="#313131">
+                    <tspan x="164.412" y="63">Classroom </tspan>
+                    <tspan x="162" y="101.703613" font-weight="bold">Community</tspan>
+                    <tspan x="361.656" y="104.007996"> Connection</tspan>
+                </text>
+                <g id="Circle-Logo">
+                    <circle id="Oval-1" fill="#333333" sketch:type="MSShapeGroup" cx="70" cy="70" r="70"></circle>
+                    <g id="C-+-3" transform="translate(61.000000, 51.000000)" font-weight="bold" font-family="Helvetica Neue" sketch:type="MSTextLayer" sketch:alignment="middle" fill="#FFFFFF">
+                        <text id="C" font-size="80" line-spacing="80">
+                            <tspan x="0.0882352941" y="83.8431373">C</tspan>
+                        </text>
+                        <text id="3" font-size="50" line-spacing="50">
+                            <tspan x="58" y="49">3</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
