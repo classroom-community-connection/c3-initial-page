@@ -243,6 +243,9 @@ select {
 .header h1.logo img {
   max-height: 80px;
 }
+.header.scrolled h1.logo img {
+  max-height: 40px;
+}
 .header h1.logo .logo-title {
   vertical-align: middle;
   line-height: 1.6;
