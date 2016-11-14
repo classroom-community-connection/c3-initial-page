@@ -113,12 +113,26 @@
           <div class="footer-col-inner">
             <div class="form-container">
               <p class="intro">Stay up to date with the latest news from Classroom Community Connection</p>
-              <form class="signup-form navbar-form">
-                <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Enter your email address">
-                </div>
-                <button type="submit" class="btn btn-cta btn-primary">Subscribe Now</button>
-              </form>
+              <!-- Begin MailChimp Signup Form -->
+              <div id="mc_embed_signup">
+                <form action="//github.us14.list-manage.com/subscribe/post?u=cde3f600887c90318549b429c&amp;id=654ae02168" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="signup-form navbar-form validate" target="_blank" novalidate>
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cde3f600887c90318549b429c_654ae02168" tabindex="-1" value=""></div>
+                  <div id="mc_embed_signup_scroll">
+                    <div class="mc-field-group form-group">
+                      <label class="sr-only" for="mce-EMAIL">Email Address </label>
+                      <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Enter your email address">
+                      <input type="submit" value="Subscribe Now" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-cta btn-primary">
+                    </div>
+                    <div id="mce-responses" class="clear">
+                      <div class="response" id="mce-error-response" style="display:none"></div>
+                      <div class="response" id="mce-success-response" style="display:none"></div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                </form>
+              </div>
+              <!--End mc_embed_signup-->
             </div><!--//subscription-form-->
           </div><!--//footer-col-inner-->
         </div><!--//foooter-col-->
@@ -137,6 +151,17 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/js/main.js"></script>
 
+<!-- Mail Chimp validation -->
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+<script type='text/javascript'>
+  (function ($) {
+    window.fnames = new Array();
+    window.ftypes = new Array();
+    fnames[0] = 'EMAIL';
+    ftypes[0] = 'email';
+  }(jQuery));
+  var $mcj = jQuery.noConflict(true);
+</script>
 </body>
 </html>
 
